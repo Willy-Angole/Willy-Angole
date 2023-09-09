@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Willy-Angole
 - 👀 I’m A Data Scientist and Data Analyst
-- 🌱 I’m Data science graduate @moringa school and looking forward for Data Science or Data Analyst role
+- 🌱 I’m Data science graduate @moringa school 
 - 💞️ I’m open to Data Science ML and AI roles
 - 📫 How to reach me is via my email= willyangole6101@gmail.com
 
