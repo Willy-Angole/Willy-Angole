@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Willy-Angole
-- 👀 I’m A Data Scientist and Data Analyst
+- 👀 I’m A Fullstack Developer
 - 🌱 I’m Data science graduate @moringa school 
-- 💞️ I’m open to Data Science ML and AI roles
+- 💞️ I love Software Engineering, ML and AI
 - 📫 How to reach me is via my email= willyangole6101@gmail.com
 
 <!---
