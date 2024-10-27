@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Willy-Angole
 - 👀 I’m A Fullstack Developer
-- 🌱 I’m Data science graduate @moringa school 
 - 💞️ I love Software Engineering, ML and AI
 - 📫 How to reach me is via my email= willyangole6101@gmail.com
 
