@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @Willy-Angole
-- 👀 I’m A Fullstack Developer
-- 💞️ I love Software Engineering, ML and AI
-- 📫 How to reach me is via my email= willyangole6101@gmail.com
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gateremark&label=Profile%20Views&color=430680&style=flat" alt="gateremark" /> </p> -->
 
-<!---
-Willy-Angole/Willy-Angole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://bit.ly/gatere">
+<img src="static/codegif.webp" width ="30">
+</a>
+
+<!--
+
+```javascript
+const angolewilly = developer {
+    about {
+        name = "Willy Angole"
+        role = Software Engineer
+    }
+    tech ("JavaScript", "Typescript", "Python")
+    links {
+        LinkedIn = "Willy Angole"
+        X (Twitter) = "Willy Angole"
+        Portfolio = "bit.ly/gatere"
+    }
+}
+
+```
+
+-->
